@@ -1,23 +1,23 @@
-# TÍTULO DO PROJETO
+# SALVOU
 
-`CURSO`
+`CIÊNCIAS DA COMPUTAÇÃO`
 
-`DISCIPLINA`
+`ENGENHARIA DE SOFTWARE II`
 
-`SEMESTRE`
+`01-2026`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O presente documento tem como objetivo apresentar o desenvolvimento do produto “Salvou”, um software de Customer Relationship Management (CRM) voltado para microempreendedores individuais (MEIs) e profissionais autônomos brasileiros. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Brenda Caroline Tristão
+* Daniely Fernanda Poscidonio
+* João Gabriel Bernardes de Oliveira
+* Gabriel Alencar do Lago
 
 ## Orientador
 
-* Nome completo do professor 1
+* Diego Roberto Gonçalves de Pontes
 
 ## Instruções de utilização
 
