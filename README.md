@@ -1,4 +1,4 @@
-# SALVOU
+# TOTEM DE ACESSO FACIAL
 
 `CIÊNCIAS DA COMPUTAÇÃO`
 
@@ -6,7 +6,7 @@
 
 `01-2026`
 
-O presente documento tem como objetivo apresentar o desenvolvimento do produto “Salvou”, um software de Customer Relationship Management (CRM) voltado para microempreendedores individuais (MEIs) e profissionais autônomos brasileiros. 
+O presente documento tem como objetivo apresentar o desenvolvimento de um sistema de reconhecimento facial desenvolvido para totens de acesso, integrando validação de CPF e biometria em tempo real.
 
 ## Integrantes
 
