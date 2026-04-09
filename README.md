@@ -14,6 +14,8 @@ O presente documento tem como objetivo apresentar o desenvolvimento de um sistem
 * Daniely Fernanda Poscidonio
 * João Gabriel Bernardes de Oliveira
 * Gabriel Alencar do Lago
+* Henrique de Souza Rocha
+* Yasmin Karoline Alcisio Corona 
 
 ## Orientador
 
