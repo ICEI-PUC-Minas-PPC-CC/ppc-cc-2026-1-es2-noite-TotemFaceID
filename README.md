@@ -1,4 +1,4 @@
-# TOTEM DE ACESSO FACIAL
+# SALVOU
 
 `CIÊNCIAS DA COMPUTAÇÃO`
 
@@ -6,7 +6,7 @@
 
 `01-2026`
 
-O presente documento tem como objetivo apresentar o desenvolvimento de um sistema de reconhecimento facial desenvolvido para totens de acesso, integrando validação de CPF e biometria em tempo real.
+O presente documento tem como objetivo apresentar o desenvolvimento de um software de Customer Relationship Management (CRM) que facilita a gestão de clientes para autônomos e microempreendedores individuais (MEIs). 
 
 ## Integrantes
 
